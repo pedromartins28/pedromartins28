@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">💻 Junior Fullstack Developer at LV Network | 🎓 Bachelor's Degree in Information Systems - UFLA</p>
+<p align="left">💻 Fullstack Developer at LV Network | 🎓 Bachelor's Degree in Information Systems - UFLA</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👨‍💻 Developing since 2018, with experience across web, mobile, and backend development, working with technologies such as PHP, JavaScript, SQL, Vue.js, React Native, and Flutter.<br><br>🔭 Currently working at LV Software on LVDesk, a corporate system, where I implement new features, fix bugs, optimize performance, and integrate REST APIs. <br><br>📚 Currently learning English and Laravel, improving both my technical and communication skills.<br><br>🔄 Strong interest in Agile practices, leadership, and processes that improve software quality and team performance.<br><br>🎯 My career goals include pursuing a postgraduate degree in Software Engineering or Software Architecture, becoming fluent in English, and growing into a Tech Lead role.<br><br>⚽ Outside of tech, I enjoy practicing sports such as soccer, handball, and basketball, which help me stay disciplined and focused.</p>
+<p align="left">👨‍💻 Developing since 2018, with experience across web, mobile, and backend development, working with technologies such as PHP, JavaScript, SQL, Vue.js, React Native, and Flutter.<br><br>🔭 Currently working at LV Software on LVDesk, a corporate system, where I implement new features, fix bugs, optimize performance, and integrate REST APIs. <br><br>📚 Currently learning English and Laravel, improving both my technical and communication skills.<br><br>🔄 Strong interest in Agile practices, leadership, and processes that improve software quality and team performance.<br><br>🎯 My career goals include pursuing a postgraduate degree in Software Engineering or Software Architecture, becoming fluent in English, and growing into a Tech Lead role.<br><br>📖 Currently reading "Refactoring" by Martin Fowler.<br><br>⚽ Outside of tech, I enjoy practicing sports such as soccer, handball, and basketball, which help me stay disciplined and focused.</p>
 
 ###
 
